@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAReciever", "RSAReciever\RSAReciever.csproj", "{CBA291AF-0871-45A8-A63E-BADBAEBE883F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSASender", "RSASender\RSASender.csproj", "{457F4A5C-8FE4-4FC6-BB06-DBBA4DE350DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA291AF-0871-45A8-A63E-BADBAEBE883F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA291AF-0871-45A8-A63E-BADBAEBE883F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA291AF-0871-45A8-A63E-BADBAEBE883F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA291AF-0871-45A8-A63E-BADBAEBE883F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457F4A5C-8FE4-4FC6-BB06-DBBA4DE350DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457F4A5C-8FE4-4FC6-BB06-DBBA4DE350DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457F4A5C-8FE4-4FC6-BB06-DBBA4DE350DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457F4A5C-8FE4-4FC6-BB06-DBBA4DE350DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A902967-AD70-49B0-976C-57382EE62AD2}
+	EndGlobalSection
+EndGlobal
